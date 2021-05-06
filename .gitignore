@@ -17,3 +17,5 @@ build/
 .DS_STORE
 .vscode/
 /.vs
+workspace.code-workspace
+aad.config.json
